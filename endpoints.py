@@ -1,3 +1,4 @@
+#coding: utf-8
 from Oportunidades import Oportunidade
 from flask import Flask
 from flask_restful import Api, Resource
